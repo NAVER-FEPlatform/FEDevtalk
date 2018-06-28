@@ -4,6 +4,10 @@ FEDevtalk 은 NAVER 에서 진행하는 사내 프론트엔드 소규모 컨퍼�
 
 - [FEDevtalk 12 회 연사 모집]
 
+## Organizers
+
+- [한재엽](http://github.com/JaeYeopHan) : ljyhanll@gmail.com
+
 ## JFYI
 
 - [FEDevtalk Youtube](https://www.youtube.com/playlist?list=PLsFtzQAC8dDcv76FW0MDTTYVgnVrsW3sW)
