@@ -1,3 +1,9 @@
+<div align="center">
+
+![FEDEVTALK_LOGO](./assets/fedevtalk_logo.png)
+
+</div>
+
 # FEDevtalk
 
 FEDevtalk 은 NAVER 에서 진행하는 사내 프론트엔드 소규모 컨퍼런스입니다. Front-End 기술과 관련된 모든 영역의 내용들을 공유하고 토론할 수 있는 사내 컨퍼런스로 다양한 네이버 서비스 개발 경험들과 노하우를 개발자로부터 직접 들을 수 있는 자리입니다. 매 3 개월 마다 진행이 되고 있으며 10 회가 넘도록 오래 지속되어 왔으며 참석자 또한 점점 늘어나면서 지난 11 회 FEDevtalk 에는 200 명이 넘는 분들이 참석해주셨습니다.
