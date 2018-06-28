@@ -18,9 +18,11 @@ FEDevtalk 은 `NAVER`에서 진행하는 사내 프론트엔드 소규모 컨퍼
 
 - [한재엽](http://github.com/JaeYeopHan) : ljyhanll@gmail.com
 - NAVER FEPlatform
-- 본 행사는 NAVER D2 의 후원을 받고 있습니다.
+- 본 행사는 [NAVER D2](https://d2.naver.com/home) 의 후원을 받고 있습니다.
 
-![NAVER_D2_LOGO](./assets/naver_d2_logo.png)
+<img src="./assets/naver_d2_logo.png" width="200px">
+
+<!-- ![NAVER_D2_LOGO](./assets/naver_d2_logo.png) -->
 
 ## JFYI
 
