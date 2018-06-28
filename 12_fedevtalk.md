@@ -1,4 +1,4 @@
-# Call for paper
+# Call for Speakers
 
 ## NAVER FEDevtalk 12 회에서 연사를 모집합니다.
 
