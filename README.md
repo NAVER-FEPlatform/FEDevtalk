@@ -17,6 +17,7 @@ FEDevtalk 은 NAVER 에서 진행하는 사내 프론트엔드 소규모 컨퍼�
 ## Organizers
 
 - [한재엽](http://github.com/JaeYeopHan) : ljyhanll@gmail.com
+- NAVER FEPlatform
 
 ## JFYI
 
