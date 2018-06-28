@@ -1,7 +1,3 @@
-# FEDevtalk 12 회
-
----
-
 # Call for paper
 
 ## NAVER FEDevtalk 12 회에서 연사를 모집합니다.
@@ -28,7 +24,13 @@ FEDevtalk Meetup 은 각 세션의 발표자가 준비한 발표를 마친 후, 
 
 ---
 
-# Time table
+# FEDevtalk 12 회
+- Theme : State Management of Front-End
+- Subject
+  - Redux
+  - MobX
+
+## Time table
 
 | 시간            | 내용        | 발표자   |
 | :-----------: | :-------: | :---: |
