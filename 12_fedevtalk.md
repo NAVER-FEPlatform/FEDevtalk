@@ -2,7 +2,6 @@
 
 ## NAVER FEDevtalk 12 회에서 연사를 모집합니다.
 
-이번 FEDevtalk 12 회 테마는 ‘State Management of Front-End` 입니다. Redux, MobX 라는 두 개의 큰 주제를 다룰 예정이며 각 주제에 대해 발표해주실 분을 모집 중에 있습니다. 문서가 말해주지 않는 깊이 있는 경험을 공유해주실 분을 모시고 있습니다.
 
 참가 신청 링크 : https://goo.gl/forms/Ep5kt4mLISrQT0R23
 
