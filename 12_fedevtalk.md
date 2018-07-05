@@ -2,8 +2,9 @@
 
 ## NAVER FEDevtalk 12 회에서 연사를 모집합니다.
 
+이번 FEDevtalk 12회 테마는 ‘State Management of Front-End` 입니다. 이 테마에서 다룰 수 있는 것에 대해 발표해주실 분을 모집 중에 있습니다. 발표는 25분 분량이며 그 형식에는 제한이 없습니다.
 
-참가 신청 링크 : https://goo.gl/forms/Ep5kt4mLISrQT0R23
+- 참가 신청 링크 : https://goo.gl/forms/Ep5kt4mLISrQT0R23
 
 > `NOTE` **본 모집은 7월 10일까지 진행되며 7월 18일 연사 확정 소식을 전달드릴 예정입니다.**
 
