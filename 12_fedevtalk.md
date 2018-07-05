@@ -21,11 +21,11 @@
 
 # FEDevtalk 12 회
 - Theme : State Management of Front-End
-- Subject
-  - Redux
-  - MobX
+- Subject (미정)
 
-각 세션의 발표자가 준비한 발표를 마친 후, 참석자들의 질문과 함께 토론 세션을 진행하게 됩니다. 이 토론에는 (실력있는) 프론트엔드 개발자 분이 사회를 맡아 토론을 매끄럽게 진행해주실 예정입니다.
+FEDevtalk 은 각 세션의 발표자가 준비한 발표를 마친 후, 참석자들의 질문과 함께 "토론 세션"을 진행하게 됩니다.
+
+
 
 ## Information
 - 날짜. : 2018 년 8 월 8 일 (예정)
