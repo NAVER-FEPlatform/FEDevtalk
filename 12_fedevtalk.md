@@ -12,8 +12,8 @@
 
 | 시간            | 발표자   | 발표 제목                                                     |
 | :-----------: | :---: | --------------------------------------------------------- |
-| 16:00 ~ 16:30 | 이현섭님  | .                                                         |
-| 16:30 ~ 17:00 | 김영민님  | History of Redux State Management at Vingle: 빙글 Redux 변천사 |
+| 16:00 ~ 16:30 | 김영민님  | History of Redux State Management at Vingle: 빙글 Redux 변천사 |
+| 16:30 ~ 17:00 | 이현섭님  | .                                                         |
 | 17:00 ~ 17:30 | -     | break time                                                |
 | 17:30 ~ 18:30 | 토론 세션 | Redux vs MobX                                             |
 
