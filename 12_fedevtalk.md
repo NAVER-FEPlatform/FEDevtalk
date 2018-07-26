@@ -1,30 +1,6 @@
-# Call for Speakers
-
-## NAVER FEDevtalk 12 회에서 연사를 모집합니다.
-
-이번 FEDevtalk 12 회 테마는 ‘State Management of Front-End` 입니다. 이 테마에서 다룰 수 있는 것에 대해 발표해주실 분을 모집 중에 있습니다. 발표는 25 분 분량이며 그 형식에는 제한이 없습니다.
-
-- 참가 신청 링크 : https://goo.gl/forms/Ep5kt4mLISrQT0R23
-
-> `NOTE` **본 모집은 7 월 17 일까지 진행되며 7 월 18 일 연사 확정 소식을 전달드릴 예정입니다.**
-
-## JFYI
-
-- **연사로 오셔서 경험과 지식을 공유해주실 경우, '소정의 사례'와 상패를 드립니다.**
-- 이번 회차와는 인연이 맞지 않아 지원을 못하셨더라도 자신이 자신있는 분야가 있어서 발표를 원하신다면 오거나이저인 저([한재엽](http://github.com/JaeYeopHan))에게 개인적으로 연락주시거나 [ISSUE](https://github.com/JaeYeopHan/FEDevtalk/issues)에 등록해주세요! 추후 컨퍼런스의 테마와 맞는 분이시라면 연락드리겠습니다.
-
-</br>
-
----
-
-</br>
-
 # FEDevtalk 12 회
 
-- Theme : State Management of Front-End
-- Subject (미정)
-
-FEDevtalk 은 각 세션의 발표자가 준비한 발표를 마친 후, 참석자들의 질문과 함께 "토론 세션"을 진행하게 됩니다.
+#### Theme : State Management of Front-End
 
 ## Information
 
@@ -34,4 +10,13 @@ FEDevtalk 은 각 세션의 발표자가 준비한 발표를 마친 후, 참석�
 
 ## Time table
 
-(TBD)
+| 시간            | 발표자   | 발표 제목                                                     |
+| :-----------: | :---: | --------------------------------------------------------- |
+| 16:00 ~ 16:30 | 이현섭님  | .                                                         |
+| 16:30 ~ 17:00 | 김영민님  | History of Redux State Management at Vingle: 빙글 Redux 변천사 |
+| 17:00 ~ 17:30 | -     | break time                                                |
+| 17:30 ~ 18:30 | 토론 세션 | Redux vs MobX                                             |
+
+## 세션 상세
+
+(WIP)
