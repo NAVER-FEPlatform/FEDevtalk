@@ -6,7 +6,7 @@
 
 # FEDevtalk
 
-FEDevtalk 은 `NAVER`에서 진행하는 사내 프론트엔드 컨퍼런스입니다. Front-End 기술과 관련된 모든 영역의 내용들을 공유하고 토론할 수 있는 사내 컨퍼런스로 다양한 서비스 개발 경험들과 노하우를 개발자로부터 직접 들을 수 있는 자리입니다. 매 3 개월(분기) 마다 진행이 되고 있으며 10 회가 넘도록 오래 지속되어 왔습니다. 참석자 또한 점점 늘어나면서 지난 11 회 FEDevtalk 에는 250 명이 넘는 분들이 참석해주셨습니다.
+FEDevtalk 은 `NAVER`에서 진행하는 사내 프론트엔드 컨퍼런스입니다. Front-End 기술과 관련된 모든 영역의 내용들을 공유하고 토론할 수 있는 사내 컨퍼런스로 다양한 서비스 개발 경험들과 노하우를 개발자로부터 직접 들을 수 있는 자리입니다. 매 3 개월(분기) 마다 진행이 되고 있으며 12 회가 넘도록 오래 지속되어 왔습니다. 참석자 또한 점점 늘어나면서 지난 12 회 FEDevtalk 에는 250 명이 넘는 분들이 참석해주셨습니다.
 
 저희 FEDevtalk Organizer 는 참석자분들께 관련 주제에 대한 질 높은 정보를 전달하기 위해 사내 연사자, 외부 연사자 모두 상시 모집 중에 있습니다. 각 회차마다 다루고자 하는 ‘테마(프론트엔드 분야에서 기술적으로 분류할 수 있는 주제군)’를 정하고 그에 맞는 ‘주제'를 선정하여 연사를 모집하고 있습니다.
 
@@ -18,7 +18,7 @@ FEDevtalk 은 `NAVER`에서 진행하는 사내 프론트엔드 컨퍼런스입�
 - 아쉽게도 행사 관리의 문제로 **외부 참석자는 참가 신청을 받지 않고 있습니다.** 대신 연사자 분들이 발표하신 내용은 연사자 동의하에 높은 퀄리티로 촬영이 이루어지며 이는 추후 편집을 거쳐 발표자료와 함께 Youtube 에 공개됩니다.
 
 ### 지난 FEDevtalk
-
+- [FEDevtalk 12 회](https://github.com/JaeYeopHan/FEDevtalk/blob/master/12_fedevtalk.md)
 - [FEDevtalk 11 회](https://github.com/JaeYeopHan/FEDevtalk/blob/master/11_fedevtalk.md)
 - [FEDevtalk 10 회](https://github.com/JaeYeopHan/FEDevtalk/blob/master/10_fedevtalk.md)
 
