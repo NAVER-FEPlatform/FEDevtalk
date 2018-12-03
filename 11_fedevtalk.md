@@ -22,6 +22,9 @@
 - Vue.js 를 쓰는 이유
 - 상황에 따른 Tip
 
+### 발표 영상
+- https://www.youtube.com/watch?v=EOo844GSSDY&index=8&t=0s&list=PLsFtzQAC8dDcv76FW0MDTTYVgnVrsW3sW
+
 ## 3. React vs Vue (토론 세션)
 
 #### 발표자 최승락 님
@@ -29,3 +32,6 @@
 ### 개요
 
 Vue 는 React 의 장점은 흡수하고 몇 가지 개선 시도를 하였습니다. 특히 data 와 view 간의 binding 방식에서 차이를 보입니다. 이 차이에 대해 깊이 있게 보고 개발 생산성 측면에서 어떠한 장단이 있나 비교해 봅니다.
+
+### 발표 영상
+- https://www.youtube.com/watch?v=ME-GQ-mAB2k&index=9&t=1605s&list=PLsFtzQAC8dDcv76FW0MDTTYVgnVrsW3sW

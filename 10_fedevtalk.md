@@ -33,6 +33,9 @@ Storybook 은 개발적인 이점을 줄 뿐만 아니라, 개발자와 PM 그�
 - CodersHigh, Software Engineer 2017.01 - 2017.06
 - Foreseer, Software Engineer 2017.06 - 2017.10
 
+### 발표 영상
+- https://www.youtube.com/watch?v=jc9xKzdkYDg&index=6&t=0s&list=PLsFtzQAC8dDcv76FW0MDTTYVgnVrsW3sW
+
 </br>
 
 ## 2. TypeScript 와 Flow: 자바스크립트 개발에 정적 타이핑 도입하기
@@ -57,6 +60,9 @@ Storybook 은 개발적인 이점을 줄 뿐만 아니라, 개발자와 PM 그�
 - 스포카 웹 프론트엔드 프로그래머 2017.01 ~ 2017.09
 - 하이퍼커넥트 웹 FE 개발자 2017.10 ~ 현재
 
+### 발표 영상
+- https://www.youtube.com/watch?v=H16gTwa2J7g&index=7&t=0s&list=PLsFtzQAC8dDcv76FW0MDTTYVgnVrsW3sW
+
 </br>
 
 ## 3. 통합검색 레이어 페이지
@@ -72,3 +78,6 @@ Storybook 은 개발적인 이점을 줄 뿐만 아니라, 개발자와 PM 그�
 - 애니매이션 구현 프로세스, 성능 최적화
 - 페이지 성능 최적화
 - FE 개발 환경의 개선
+
+### 발표 영상
+- https://www.youtube.com/watch?v=WdF3yytaYqw&index=5&t=0s&list=PLsFtzQAC8dDcv76FW0MDTTYVgnVrsW3sW

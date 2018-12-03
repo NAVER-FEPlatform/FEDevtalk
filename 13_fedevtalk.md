@@ -1,6 +1,6 @@
 # FEDevtalk 13 회
 
-#### Theme : Modern자바스크립트를 활용한 서비스 개발 경험기
+#### Theme : Modern 자바스크립트를 활용한 서비스 개발 경험기
 
 ## Information
 

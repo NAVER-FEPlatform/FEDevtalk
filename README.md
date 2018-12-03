@@ -17,10 +17,13 @@ FEDevtalk 은 `NAVER`에서 진행하는 사내 프론트엔드 컨퍼런스입�
 - 행사에서 다뤘으면 하는 프론트엔드 분야와 관련된 좋은 테마, 주제가 있다면 이 또한 [ISSUE](https://github.com/JaeYeopHan/FEDevtalk/issues)에 등록해주세요! 다음 FEDevtalk 기획 시 참고하겠습니다.
 - 아쉽게도 행사 관리의 문제로 **외부 참석자는 참가 신청을 받지 않고 있습니다.** 대신 연사자 분들이 발표하신 내용은 연사자 동의하에 높은 퀄리티로 촬영이 이루어지며 이는 추후 편집을 거쳐 발표자료와 함께 Youtube 에 공개됩니다.
 
+### 진행 중인 FEDevtalk
+- **[FEDevtalk 13 회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/13_fedevtalk.md)**
+
 ### 지난 FEDevtalk
-- [FEDevtalk 12 회](https://github.com/JaeYeopHan/FEDevtalk/blob/master/12_fedevtalk.md)
-- [FEDevtalk 11 회](https://github.com/JaeYeopHan/FEDevtalk/blob/master/11_fedevtalk.md)
-- [FEDevtalk 10 회](https://github.com/JaeYeopHan/FEDevtalk/blob/master/10_fedevtalk.md)
+- [FEDevtalk 12 회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/12_fedevtalk.md)
+- [FEDevtalk 11 회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/11_fedevtalk.md)
+- [FEDevtalk 10 회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/10_fedevtalk.md)
 
 ## Organizers
 
@@ -30,8 +33,10 @@ FEDevtalk 은 `NAVER`에서 진행하는 사내 프론트엔드 컨퍼런스입�
 - 김현준
 - 최연규
 - NAVER FEPlatform Team
-- ~~[한재엽](http://github.com/JaeYeopHan) : ljyhanll@gmail.com~~
 - 본 행사는 [NAVER D2](https://d2.naver.com/home) 의 후원을 받고 있습니다.
+
+### 지난 참여자
+- [한재엽](http://github.com/JaeYeopHan) : ljyhanll@gmail.com
 
 <div align="center">
 
