@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="./assets/naver_d2_logo.png" width="200px">
+<a href="https://d2.naver.com/home"><img src="./assets/naver_d2_logo.png" width="200px"></a>
 
 </div>
 
