@@ -27,15 +27,15 @@ FEDevtalk 은 `NAVER`에서 진행하는 사내 프론트엔드 컨퍼런스입�
 
 ## Organizers
 
-- 전용우
-- 김도윤
-- 이관형
-- 김현준
-- 최연규
-- NAVER FEPlatform Team
+- [전용우@mixed](https://github.com/mixed)
+- [김도윤@BillionaireDY](https://github.com/BillionaireDY)
+- [이관형@sphilee](https://github.com/sphilee)
+- [김현준@henjun](https://github.com/henjun)
+- [최연규@younkue)](https://github.com/younkue)
+- [NAVER FE Platform Team](https://medium.com/naver-fe-platform)
 - 본 행사는 [NAVER D2](https://d2.naver.com/home) 의 후원을 받고 있습니다.
 
-### 지난 참여자
+### 지난 운영자
 - [한재엽](http://github.com/JaeYeopHan) : ljyhanll@gmail.com
 
 <div align="center">
