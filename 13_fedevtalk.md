@@ -11,9 +11,9 @@
 ## Time table
 | 세션 | 시간               | 주제       | 발표자          |
 | ---- | ------------------ | ---------- | --------------- |
-| 1    | 3:30 ~ 4:00 / 30분 | **Polymer**  | 신정규님([Lablup](https://www.lablup.com/#/)) |
-| 2    | 4:05 ~ 4:35 / 30분 | **Vue.js**   | 유인동님([marpple](https://en.marpple.com/en/)) |
+| 1    | 3:30 ~ 4:00 / 30분 | **Polymer** : Ride the lightning: 폴리머 기반 서비스 개발기 | 신정규님([Lablup](https://www.lablup.com/#/)) |
+| 2    | 4:05 ~ 4:35 / 30분 | **Vue.js** : Vue.js를 이용한 백오피스 제작 경험 공유   | 유인동님([marpple](https://en.marpple.com/en/)) |
 | -    | 4:35 ~ 4:55 / 20분 | break time | -               |
-| 3    | 4:55 ~ 5:35 / 40분 | **Functional Javascript**   | 마광휘님(winepoint)  |
+| 3    | 4:55 ~ 5:35 / 40분 | **Functional JS(함수형 자바스크립트)** : 서비스에 함수형 / 동시성 적용사례 | 마광휘님(winepoint)  |
 | -    | 5:35 ~ 5:45 / 10분 | break time | -               |
 | 4    | 5:45 ~ 6:15 / 30분 | **기술소통시간**   | -      |
