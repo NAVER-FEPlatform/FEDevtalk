@@ -1,6 +1,6 @@
 # FEDevtalk 14 회
 
-#### Theme : Front End를 인터렉티브하게 만드는 다양한 방법
+#### Theme : Interactive Data Visualization
 
 ## Information
 
