@@ -18,12 +18,13 @@
 - 아쉽게도 행사 관리의 문제로 **외부 참석자는 참가 신청을 받지 않고 있습니다.** 대신 연사자 분들이 발표하신 내용은 연사자 동의하에 높은 퀄리티로 촬영이 이루어지며 이는 추후 편집을 거쳐 발표자료와 함께 Youtube 에 공개됩니다.
 
 ### 진행 중인 FEdevtalk
-- **[FEdevtalk 13 회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/13_fedevtalk.md)**
+- **[FEdevtalk 14회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/14_fedevtalk.md)**
 
 ### 지난 FEdevtalk
-- [FEdevtalk 12 회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/12_fedevtalk.md)
-- [FEdevtalk 11 회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/11_fedevtalk.md)
-- [FEdevtalk 10 회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/10_fedevtalk.md)
+- [FEdevtalk 13회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/13_fedevtalk.md)
+- [FEdevtalk 12회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/12_fedevtalk.md)
+- [FEdevtalk 11회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/11_fedevtalk.md)
+- [FEdevtalk 10회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/10_fedevtalk.md)
 
 ## Organizers
 
@@ -31,7 +32,8 @@
 - [김도윤@BillionaireDY](https://github.com/BillionaireDY)
 - [이관형@sphilee](https://github.com/sphilee)
 - [김현준@henjun](https://github.com/henjun)
-- [최연규@younkue](https://github.com/younkue)
+- [최연규@daybrush](https://github.com/daybrush)
+- [김민규@woodneck](https://github.com/woodneck)
 - [NAVER FE Platform Team](https://medium.com/naver-fe-platform)
 - 본 행사는 [NAVER D2](https://d2.naver.com/home) 의 후원을 받고 있습니다.
 
