@@ -5,6 +5,7 @@
 </div>
 
 # FE devtalk
+<img src="./assets/_DSC5957-59.jpg" width="600px">
 
 **FE devtalk** 은 `NAVER`에서 진행하는 **사내 프론트엔드 컨퍼런스**입니다. Front-End 기술과 관련된 모든 영역의 내용들을 공유하고 토론할 수 있는 사내 컨퍼런스로 다양한 서비스 개발 경험들과 노하우를 개발자로부터 직접 들을 수 있는 자리입니다. 매 3 개월(분기) 마다 진행이 되고 있으며 2015년 부터 지금까지 운영하고 있습니다. 참석자 또한 점점 늘어나면서 지난 FE devtalk에는 250 명이 넘는 분들이 참석해주셨습니다.
 
@@ -18,9 +19,9 @@
 - 아쉽게도 행사 관리의 문제로 **외부 참석자는 참가 신청을 받지 않고 있습니다.** 대신 연사자 분들이 발표하신 내용은 연사자 동의하에 높은 퀄리티로 촬영이 이루어지며 이는 추후 편집을 거쳐 발표자료와 함께 Youtube 에 공개됩니다.
 
 ### 진행 중인 FEdevtalk
-- **[FEdevtalk 14회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/14_fedevtalk.md)**
 
 ### 지난 FEdevtalk
+- [FEdevtalk 14회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/14_fedevtalk.md)
 - [FEdevtalk 13회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/13_fedevtalk.md)
 - [FEdevtalk 12회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/12_fedevtalk.md)
 - [FEdevtalk 11회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/11_fedevtalk.md)
