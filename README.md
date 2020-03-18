@@ -32,7 +32,6 @@
 
 - [전용우@mixed](https://github.com/mixed)
 - [김도윤@BillionaireDY](https://github.com/BillionaireDY)
-- [이관형@sphilee](https://github.com/sphilee)
 - [김현준@henjun](https://github.com/henjun)
 - [최연규@daybrush](https://github.com/daybrush)
 - [김민규@woodneck](https://github.com/woodneck)
@@ -41,6 +40,7 @@
 
 ### 지난 운영자
 - [한재엽@JaeYeopHan](http://github.com/JaeYeopHan)
+- [이관형@sphilee](https://github.com/sphilee)
 
 <div align="center">
 
