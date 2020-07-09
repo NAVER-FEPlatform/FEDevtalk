@@ -37,6 +37,9 @@
 - [김현준@henjun](https://github.com/henjun)
 - [최연규@daybrush](https://github.com/daybrush)
 - [김민규@woodneck](https://github.com/woodneck)
+- [이은빈@fed-gren](https://github.com/fed-gren)
+- [김재원@load0ne](https://github.com/load0ne)
+- [우혜주@hzoou](https://github.com/hzoou)
 - [NAVER FE Platform Team](https://medium.com/naver-fe-platform)
 - 본 행사는 [NAVER D2](https://d2.naver.com/home) 의 후원을 받고 있습니다.
 
