@@ -21,6 +21,7 @@
 ### 진행 중인 FEdevtalk
 
 ### 지난 FEdevtalk
+- [FEdevtalk 17회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/17_fedevtalk.md)
 - [FEdevtalk 16회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/16_fedevtalk.md)
 - [FEdevtalk 15회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/15_fedevtalk.md)
 - [FEdevtalk 14회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/14_fedevtalk.md)
