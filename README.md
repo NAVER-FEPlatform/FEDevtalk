@@ -59,5 +59,4 @@
 ## Related Links
 
 - [FE devtalk NaverTV](https://tv.naver.com/naverd2)
-- [FE devtalk Youtube](https://www.youtube.com/playlist?list=PLsFtzQAC8dDcv76FW0MDTTYVgnVrsW3sW)
 - [NAVER Tech Talk News](https://d2.naver.com/search?keyword=teck%20talk)
