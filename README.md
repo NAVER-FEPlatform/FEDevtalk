@@ -43,7 +43,7 @@
 - [김재원@load0ne](https://github.com/load0ne)
 - [우혜주@hzoou](https://github.com/hzoou)
 - NAVER FE Platform Team
-  - [소개](https://github.com/naver/fe-news/blob/fe-org/org/FE-Platform.md)
+  - [소개](https://github.com/naver/fe-news/blob/fe-org/org/Search-FE.md)
   - [블로그](https://medium.com/naver-fe-platform)
 - 본 행사는 [NAVER D2](https://d2.naver.com/home) 의 후원을 받고 있습니다.
 
