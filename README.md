@@ -61,3 +61,21 @@
 
 - [FE devtalk NaverTV](https://tv.naver.com/naverd2)
 - [NAVER Tech Talk News](https://d2.naver.com/search?keyword=teck%20talk)
+
+## 참여 회사
+<img width="150px" style="display:inline"  src="https://user-images.githubusercontent.com/22300/115655479-5bfd7780-a36e-11eb-9ff8-1627c00b1643.png"/>
+<img width="150px" style="display:inline"  src="https://user-images.githubusercontent.com/22300/115655482-5d2ea480-a36e-11eb-8e3e-f8f69e101a80.png"/>
+<img width="150px" style="display:inline"  src="https://user-images.githubusercontent.com/22300/115655483-5dc73b00-a36e-11eb-98e2-d6d10bc44da8.jpeg"/>
+<img width="150px" style="display:inline"  src="https://user-images.githubusercontent.com/22300/115655486-5ef86800-a36e-11eb-9ee5-24f49ef87dd3.jpeg"/>
+<img width="150px" style="display:inline"  src="https://user-images.githubusercontent.com/22300/115655489-5ef86800-a36e-11eb-9347-ba173f51c1ed.png"/>
+<img width="150px" style="display:inline"  src="https://user-images.githubusercontent.com/22300/115655490-5f90fe80-a36e-11eb-9b50-00d9b15abe23.png"/>
+<img width="150px" style="display:inline"  src="https://user-images.githubusercontent.com/22300/115655492-60299500-a36e-11eb-8fa8-febe889aeef7.png"/>
+<img width="150px" style="display:inline"  src="https://user-images.githubusercontent.com/22300/115655498-60c22b80-a36e-11eb-96b5-fe625ec82a48.png"/>
+<img width="150px" style="display:inline"  src="https://user-images.githubusercontent.com/22300/115655499-60c22b80-a36e-11eb-8f53-d0041b5726df.png"/>
+<img width="150px" style="display:inline"  src="https://user-images.githubusercontent.com/22300/115655663-b5fe3d00-a36e-11eb-9d7c-1d04d2508450.png"/>
+<img width="150px" style="display:inline"  src="https://user-images.githubusercontent.com/22300/115655659-b4347980-a36e-11eb-843d-69dcfc4626d8.png"/>
+<img width="150px" style="display:inline"  src="https://user-images.githubusercontent.com/22300/115655755-e645db80-a36e-11eb-929c-20aee598d922.png"/>
+
+
+
+
