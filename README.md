@@ -63,7 +63,7 @@
 - [NAVER Tech Talk News](https://d2.naver.com/search?keyword=teck%20talk)
 
 ## 참여 회사
-<div>
+<p style="line-height: 10;">
 <img width="150px" style="display:inline-block;margin:20px"  src="https://user-images.githubusercontent.com/22300/115655479-5bfd7780-a36e-11eb-9ff8-1627c00b1643.png"/>
 <img width="150px" style="display:inline-block;margin:20px"  src="https://user-images.githubusercontent.com/22300/115655482-5d2ea480-a36e-11eb-8e3e-f8f69e101a80.png"/>
 <img width="150px" style="display:inline-block;margin:20px"  src="https://user-images.githubusercontent.com/22300/115655483-5dc73b00-a36e-11eb-98e2-d6d10bc44da8.jpeg"/>
@@ -75,7 +75,7 @@
 <img width="150px" style="display:inline-block;margin:20px"  src="https://user-images.githubusercontent.com/22300/115655499-60c22b80-a36e-11eb-8f53-d0041b5726df.png"/>
 <img width="150px" style="display:inline-block;margin:20px"  src="https://user-images.githubusercontent.com/22300/115655663-b5fe3d00-a36e-11eb-9d7c-1d04d2508450.png"/>
 <img width="150px" style="display:inline-block;margin:20px"  src="https://user-images.githubusercontent.com/22300/115655659-b4347980-a36e-11eb-843d-69dcfc4626d8.png"/>
-<img width="150px" style="display:inline-block;margin:20px"  src="https://user-images.githubusercontent.com/22300/115655755-e645db80-a36e-11eb-929c-20aee598d922.png"/></div>
+<img width="150px" style="display:inline-block;margin:20px"  src="https://user-images.githubusercontent.com/22300/115655755-e645db80-a36e-11eb-929c-20aee598d922.png"/></p>
 
 
 
