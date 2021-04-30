@@ -42,6 +42,7 @@
 - [이은빈@fed-gren](https://github.com/fed-gren)
 - [김재원@load0ne](https://github.com/load0ne)
 - [우혜주@hzoou](https://github.com/hzoou)
+- [김태은@taenykim](https://github.com/taenykim)
 - NAVER FE Platform Team
   - [소개](https://github.com/naver/fe-news/blob/fe-org/org/Search-FE.md)
   - [블로그](https://medium.com/naver-fe-platform)
