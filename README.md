@@ -22,14 +22,14 @@
 - Comming Soon(21년 8월 중순 예정)
 
 ### 지난 FEdevtalk
-- [FEdevtalk 19회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/19_fedevtalk.md)
-- [FEdevtalk 18회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/18_fedevtalk.md)
-- [FEdevtalk 17회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/17_fedevtalk.md)
-- [FEdevtalk 16회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/16_fedevtalk.md)
-- [FEdevtalk 15회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/15_fedevtalk.md)
-- [FEdevtalk 14회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/14_fedevtalk.md)
-- [FEdevtalk 13회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/13_fedevtalk.md)
-- [FEdevtalk 12회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/12_fedevtalk.md)
+- [FEdevtalk 19회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/19_fedevtalk.md) - 디자인 시스템 (개발편)
+- [FEdevtalk 18회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/18_fedevtalk.md) - TypeScript, any 쓸거면 버려라
+- [FEdevtalk 17회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/17_fedevtalk.md) - 디자인 시스템
+- [FEdevtalk 16회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/16_fedevtalk.md) - FE수첩(internal)
+- [FEdevtalk 15회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/15_fedevtalk.md) - User Experience Engineering
+- [FEdevtalk 14회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/14_fedevtalk.md) - Interactive Data Visualization
+- [FEdevtalk 13회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/13_fedevtalk.md) - 모던 자바스크립트를 활용한 서비스 개발 경험기
+- [FEdevtalk 12회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/12_fedevtalk.md) - State Management of Front-End
 - [FEdevtalk 11회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/11_fedevtalk.md)
 - [FEdevtalk 10회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/10_fedevtalk.md)
 
