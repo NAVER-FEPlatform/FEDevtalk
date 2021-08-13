@@ -22,6 +22,7 @@
 - Comming Soon(21년 8월 중순 예정)
 
 ### 지난 FEdevtalk
+- [FEdevtalk 20회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/20_fedevtalk.md) - 디자인 시스템 (개발편 2탄)
 - [FEdevtalk 19회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/19_fedevtalk.md) - 디자인 시스템 (개발편)
 - [FEdevtalk 18회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/18_fedevtalk.md) - TypeScript, any 쓸거면 버려라
 - [FEdevtalk 17회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/17_fedevtalk.md) - 디자인 시스템
