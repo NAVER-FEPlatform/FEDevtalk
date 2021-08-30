@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="./assets/fedevtalk_logo.png" width="360px">
@@ -81,9 +82,20 @@
 <img height="80px" style="display:inline-block;margin:20px"  src="https://user-images.githubusercontent.com/22300/115655755-e645db80-a36e-11eb-929c-20aee598d922.png"/>
 <img height="80px" style="display:inline-block;margin:20px"  src="https://user-images.githubusercontent.com/14918660/119443515-b3737680-bd64-11eb-852d-d03ae448d9b2.png"/>
 <img height="80px" style="display:inline-block;margin:20px"  src="https://user-images.githubusercontent.com/14918660/119443507-b1111c80-bd64-11eb-953c-c96c96bdd038.png"/>
-<img height="80px" style="display:inline-block;margin:20px"  src="https://user-images.githubusercontent.com/14918660/119443512-b2dae000-bd64-11eb-818a-9623b392906c.png"/>
-</p>
 
+
+
+<img height="80px" style="display:inline-block;margin:20px"  src="https://user-images.githubusercontent.com/22935610/131287210-694e9ed4-6e29-4671-8f61-df9998d46900.png"/>
+  
+<img height="80px" style="display:inline-block;margin:20px" src="https://user-images.githubusercontent.com/22935610/131286764-8ddc15d4-e199-4a88-8ac0-75231c4d4ef7.png"/>
+  
+<img height="80px" style="display:inline-block;margin:20px"  src="https://user-images.githubusercontent.com/22935610/131286786-f4201f1d-2de0-4ef4-bbef-6350266ec4f8.png"/>
+  
+<img height="80px" style="display:inline-block;margin:20px" src="https://user-images.githubusercontent.com/22935610/131286807-d1b97a88-a818-4911-b7ed-546b918c5c38.png"/>
+  
+  
+<img height="80px" style="display:inline-block;margin:20px"  src="https://user-images.githubusercontent.com/22935610/131287266-c1d9fdda-003f-462c-b156-c19feb7a91b0.png"/>
+</p>
 
 
 
