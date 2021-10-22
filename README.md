@@ -47,7 +47,7 @@
 - [우혜주@hzoou](https://github.com/hzoou)
 - [김태은@taenykim](https://github.com/taenykim)
 - NAVER FE Platform Team
-  - [소개](https://github.com/naver/fe-news/blob/fe-org/org/Search-FE.md) <- 채용에 관심있으신가요? 소개 글을 참고해주세요.
+  - [소개](https://github.com/naver/fe-news/blob/fe-org/org/Search-FE.md), [공식 팀소개](https://naver-career.gitbook.io/kr/service/search/reliability-platform/search-fe) <- 채용에 관심있으신가요? 소개 글을 참고해주세요.
   - [블로그](https://medium.com/naver-fe-platform)
 - 본 행사는 [NAVER D2](https://d2.naver.com/home) 의 후원을 받고 있습니다.
 
