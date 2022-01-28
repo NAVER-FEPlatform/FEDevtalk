@@ -1,5 +1,5 @@
 # FEDevtalk 21 회
-#### Theme : FE for Productivity
+#### Theme : Front End for Productivity
 ## Information
 - 날짜 : 2022년 2월 9일 수요일
 - 시간 : 오후 4:00 ~ 6:20
