@@ -20,9 +20,10 @@
 - 아쉽게도 행사 관리의 문제로 **외부 참석자는 참가 신청을 받지 않고 있습니다.** 대신 연사자 분들이 발표하신 내용은 연사자 동의하에 높은 퀄리티로 촬영이 이루어지며 이는 추후 편집을 거쳐 발표자료와 함께 Youtube 에 공개됩니다.
 
 ### 진행 중인 FEdevtalk
-- FE에서 AI활용 🤖 (22년 초 예정) [연사 모집 중](https://github.com/NAVER-FEPlatform/FEDevtalk/issues/4)
+- Coming Soon.
 
 ### 지난 FEdevtalk
+- [FEdevtalk 20회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/21_fedevtalk.md) - Front End for Productivity
 - [FEdevtalk 20회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/20_fedevtalk.md) - 디자인 시스템 (개발편 2탄)
 - [FEdevtalk 19회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/19_fedevtalk.md) - 디자인 시스템 (개발편)
 - [FEdevtalk 18회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/18_fedevtalk.md) - TypeScript, any 쓸거면 버려라
