@@ -23,7 +23,7 @@
 - Coming Soon.
 
 ### 지난 FEdevtalk
-- [FEdevtalk 20회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/21_fedevtalk.md) - Front End for Productivity
+- [FEdevtalk 21회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/21_fedevtalk.md) - Front End for Productivity
 - [FEdevtalk 20회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/20_fedevtalk.md) - 디자인 시스템 (개발편 2탄)
 - [FEdevtalk 19회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/19_fedevtalk.md) - 디자인 시스템 (개발편)
 - [FEdevtalk 18회](https://github.com/NAVER-FEPlatform/FEDevtalk/blob/master/18_fedevtalk.md) - TypeScript, any 쓸거면 버려라
